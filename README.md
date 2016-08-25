@@ -7,4 +7,4 @@ Adding a new line for section2 2.
 this change for section 3 pull
 this is a local change.
 this change is for fetch.
-
+this is to stash.
